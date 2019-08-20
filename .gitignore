@@ -1,0 +1,6 @@
+*test*.xls
+second_test.xlsx
+test_input.xlsx
+build/
+.idea/
+__pycache__/
